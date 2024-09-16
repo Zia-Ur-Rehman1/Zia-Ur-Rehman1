@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zia Ur Rehman</h1>
-<h3 align="center">A FullStack Enginner. Always eager to learn new skills to keep up with the latest trends in my field. My goal is to be a valuable asset to any team that I work with.</h3>
-<img align="right" alt="coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400"  >
+<h3 align="center">A FullStack Engineer with over 3 years of experience.My strategic mindset enables me to approach problems critically, and I have no trouble adapting to new technologies and new roles. I can work both independently and as part of a larger team. Always eager to learn new skills to keep up with the latest trends in my field. My goal is to be a valuable asset to any team that I work with.</h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zia-ur-rehman1&label=Profile%20views&color=0e75b6&style=flat" alt="zia-ur-rehman1" /> </p>
 
+- 🤝 I’m currently working on [Intellirent](https://myintellirent.com/)
 
 - 🌱 I’m currently learning **React, TypeScript, Node Js, AWS**
 
