@@ -6,7 +6,7 @@
 
 - 🤝 I’m currently working on [Intellirent](https://myintellirent.com/)
 
-- 🌱 I’m currently learning **React, TypeScript, Node Js, AWS**
+- 🌱 I’m currently learning **Django, React, TypeScript, Node Js, AWS**
 
 - ⏮ I previously worked on BioMark [Biomark](https://www.biomarking.com)
 
