@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Rails, Flutter**
 
-- 📫 How to reach me **ziakhanalone100@gmail.com**
+- 📫 How to reach me **zia.rehman.web@gmail.com**
 
 - ⚡ Fun fact **Anime Fan**
 
