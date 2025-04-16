@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia Ur Rehman</h1>
-<h3 align="center">A FullStack Engineer with over 3 years of experience. My strategic mindset enables me to approach problems critically, and I have no trouble adapting to new technologies and roles. I can work both independently and as part of a larger team. Always eager to learn new skills to keep up with the latest trends in my field. My goal is to be a valuable asset to any team that I work with.</h3>
+<h3 align="center">A Software Engineer with over 3 years of experience. My strategic mindset enables me to approach problems critically, and I have no trouble adapting to new technologies and roles. I can work both independently and as part of a larger team. Always eager to learn new skills to keep up with the latest trends in my field. My goal is to be a valuable asset to any team that I work with.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zia-ur-rehman1&label=Profile%20views&color=0e75b6&style=flat" alt="zia-ur-rehman1" /> </p>
