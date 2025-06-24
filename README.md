@@ -6,13 +6,13 @@
 
 - 🤝 I’m currently working on [Intellirent](https://myintellirent.com/)
 
-- 🌱 I’m currently learning **.Net, React, TypeScript, Node Js, AWS**
+- 🌱 I’m currently learning **Rails, Python AI/ML, No Code Platform**
 
 - ⏮ I previously worked on BioMark [Biomark](https://www.biomarking.com)
 
 - 🤝 My personal project [Namhal](https://github.com/Zia-Ur-Rehman1/namhal)
 
-- 💬 Ask me about **Rails, Flutter**
+- 💬 Ask me about **Rails,Python, React**
 
 - 📫 How to reach me **zia.rehman.web@gmail.com**
 
