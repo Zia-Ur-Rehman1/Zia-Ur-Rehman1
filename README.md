@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zia-ur-rehman1&label=Profile%20views&color=0e75b6&style=flat" alt="zia-ur-rehman1" /> </p>
 
-- 🤝 I’m currently working on [Intellirent](https://myintellirent.com/)
+- 🤝 I’m currently looking for a Remote Opportunity
 
 - 🌱 I’m currently learning **Rails, Python AI/ML, No Code Platform**
 
-- ⏮ I previously worked on BioMark [Biomark](https://www.biomarking.com)
+- ⏮ I previously worked on Intellirent [Intellirent](https://myintellirent.com/), BioMark [Biomark](https://www.biomarking.com) & Product Customizer [ProductCustomizer](https://apps.shopify.com/product-customizer)
 
 - 🤝 My personal project [Namhal](https://github.com/Zia-Ur-Rehman1/namhal)
 
