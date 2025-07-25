@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zia Ur Rehman</h1>
-<h3 align="center">A Software Engineer with 4+ years of experience. My strategic mindset enables me to approach problems critically, and I have no trouble adapting to new technologies and roles. I can work both independently and as part of a larger team. Always eager to learn new skills to keep up with the latest trends in my field. My goal is to be a valuable asset to any team that I work with.</h3>
+<h3 align="center">Full Stack Software Engineer with 4+ years of experience building secure, high-performance web
+                    applications across real estate, healthcare, and e-commerce domains. Skilled in both modern and legacy
+                    systems with a strong focus on performance optimization, database tuning, and API-driven
+                    development. Improved system speed by 33% and team efficiency by 70% through query tuning and
+                    workflow automation. Committed to clean code, scalable architecture, and remote collaboration.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zia-ur-rehman1&label=Profile%20views&color=0e75b6&style=flat" alt="zia-ur-rehman1" /> </p>
 
 - 🤝 I’m currently looking for a Remote Opportunity
 
-- 🌱 I’m currently learning **Rails, Python AI/ML, No Code Platform**
+- 🌱 I’m currently learning **Rails, Django, Python, AI/ML, No Code Platform**
 
 - ⏮ I previously worked on Intellirent [Intellirent](https://myintellirent.com/), BioMark [Biomark](https://www.biomarking.com) & Product Customizer [ProductCustomizer](https://apps.shopify.com/product-customizer)
 
