@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rails, Django, Python, AI/ML, No Code Platform**
 
-- ⏮ I previously worked on Inteveo[Inteveo](ams360.v1.inteveo.com), Intellirent [Intellirent](https://myintellirent.com/), BioMark [Biomark](https://www.biomarking.com) & Product Customizer [ProductCustomizer](https://apps.shopify.com/product-customizer)
+- ⏮ I previously worked on Inteveo [Inteveo](https://ecolink.inteveo.com), Intellirent [Intellirent](https://myintellirent.com/), BioMark [Biomark](https://www.biomarking.com) & Product Customizer [ProductCustomizer](https://apps.shopify.com/product-customizer)
 
 - 🤝 My personal project [Ticket/Umrah Management]([https://github.com/Zia-Ur-Rehman1/namhal](https://github.com/Zia-Ur-Rehman1/Tickting_Umrah_Reserve_Portal)), [GPT_Task_Generator](https://github.com/Zia-Ur-Rehman1/Create-Task-by-AI), [Evolutionary_Algo](https://github.com/Zia-Ur-Rehman1/Evolutionary_Algorithm)
 
