@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia Ur Rehman</h1>
-<h3 align="center">Full Stack Software Engineer with 4+ years of experience building secure, high-performance web
+<h3 align="center">Full Stack Software Engineer with 3+ years of experience building secure, high-performance web
                     applications across real estate, healthcare, and e-commerce domains. Skilled in both modern and legacy
                     systems with a strong focus on performance optimization, database tuning, and API-driven
                     development. Improved system speed by 33% and team efficiency by 70% through query tuning and
