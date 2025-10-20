@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia Ur Rehman</h1>
-<h3 align="center">Full Stack Software Engineer with 3+ years of experience building secure, high-performance web
-                    applications across real estate, healthcare, and e-commerce domains. Skilled in both modern and legacy
-                    systems with a strong focus on performance optimization, database tuning, and API-driven
-                    development. Improved system speed by 33% and team efficiency by 70% through query tuning and
-                    workflow automation. Committed to clean code, scalable architecture, and remote collaboration.</h3>
+<h3 align="center">Full Stack Software Engineer with 3+ years of experience developing secure and high-performance web applications across real estate, healthcare, e-commerce, and communication domains. Skilled in both modern and legacy systems with expertise in performance optimization, database tuning, and API-driven development. Experienced across all phases of the SDLC — frontend, backend, and DevOps — and collaborated closely with support teams to deliver features from concept to production. Committed to writing clean, maintainable code, following industry standards, and building scalable architectures in remote team environments. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zia-ur-rehman1&label=Profile%20views&color=0e75b6&style=flat" alt="zia-ur-rehman1" /> </p>
@@ -14,7 +10,7 @@
 
 - ⏮ I previously worked on Inteveo [Inteveo](https://ecolink.inteveo.com), Intellirent [Intellirent](https://myintellirent.com/), BioMark [Biomark](https://www.biomarking.com) & Product Customizer [ProductCustomizer](https://apps.shopify.com/product-customizer)
 
-- 🤝 My personal project [Ticket/Umrah Management]([https://github.com/Zia-Ur-Rehman1/namhal](https://github.com/Zia-Ur-Rehman1/Tickting_Umrah_Reserve_Portal)), [GPT_Task_Generator](https://github.com/Zia-Ur-Rehman1/Create-Task-by-AI), [Evolutionary_Algo](https://github.com/Zia-Ur-Rehman1/Evolutionary_Algorithm)
+- 🤝 My personal project [Tour Managment](https://github.com/Zia-Ur-Rehman1/namhal](https://github.com/Zia-Ur-Rehman1/Tickting_Umrah_Reserve_Portal)), [GPT_Task_Generator](https://github.com/Zia-Ur-Rehman1/Create-Task-by-AI), [Evolutionary_Algo](https://github.com/Zia-Ur-Rehman1/Evolutionary_Algorithm)
 
 - 💬 Ask me about **Web Development, Full Stack**
 
