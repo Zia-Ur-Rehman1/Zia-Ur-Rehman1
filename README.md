@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia Ur Rehman</h1>
-<h3 align="center">Full Stack Software Engineer with 4+ years of experience developing secure and high-performance web applications. Skilled in both modern and legacy systems with expertise in performance optimization, database tuning, and API-driven development. Experienced across all phases of the SDLC — frontend, backend, and DevOps — and collaborated closely with support teams to deliver features from concept to production. Always eager to learn more
+<h3 align="center">Full Stack Engineer with 4+ years delivering scalable web applications, currently exploring AI/ML integration and MCP protocols, passionate about learning and adopting emerging technologies</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zia-ur-rehman1&label=Profile%20views&color=0e75b6&style=flat" alt="zia-ur-rehman1" /> </p>
