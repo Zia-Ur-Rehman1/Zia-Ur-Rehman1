@@ -33,7 +33,7 @@
 **Personal & Learning Projects**
 
 - 🧳 **Tour Management / Umrah Ticketing Portal**  
-  <a href="https://github.com/Zia-Ur-Rehman1/AI_Umrah_Portal)" target="_blank">AI_Umrah_Portal</a>  
+  <a href="https://github.com/Zia-Ur-Rehman1/AI_Umrah_Portal" target="_blank">AI_Umrah_Portal</a>  
 - 🤖 **GPT Task Generator** – generate structured tasks using AI  
   <a href="https://github.com/Zia-Ur-Rehman1/Create-Task-by-AI" target="_blank">Create-Task-by-AI</a>  
 - 🧬 **Evolutionary Algorithm Playground** – experiments with evolutionary algorithms  
