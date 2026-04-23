@@ -38,7 +38,7 @@
   Encrypted code vault, automated deposit mirroring with SHA-256 integrity checks, multi-stage release
   approval (trigger review → moderator → lawyer → super admin), bilingual AR/EN with full RTL, Saudi    
   data residency.                                           
-    <br/>`Rails 8`·`Ruby 4.1`· `Hotwire` · `PostgreSQL` · `Solid Queue` · `action_policy` · `AASM` · `PaperTrail`
+    <br/>`Forgejo`· `Rails 8`·`Ruby 4.1`· `Hotwire` · `PostgreSQL` · `Solid Queue` · `action_policy` · `AASM` · `PaperTrail`
   · `HexaPDF` · `KMS`                                                                                   
    - 🕋 **[AgencyPortal (AI Umrah Portal)](https://hasnaintravel.com) ** —        
   Multi-tenant SaaS that normalizes 12 heterogeneous supplier APIs (cookie sessions, JWT SPAs,
