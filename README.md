@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zia Ur Rehman</h1>                                                      
   <h3 align="center">                                                                                   
-    Full Stack Software Engineer • 4+ years shipping production web apps • Ruby on Rails & React        
+    Senior Full-Stack Engineer • 5+ years shipping production SaaS in Ruby on Rails & React      
   </h3>                                                                                                 
                                                             
   <p align="center">                                                                                    
@@ -15,10 +15,10 @@
 
   - 🔭 Currently building **[Escrow.sa](https://escrow.sa)** — a software escrow platform for the Saudi 
   market (Rails 8 · Hotwire · PostgreSQL · bilingual AR/EN with full RTL)
-  - 🛠️  Also building **AgencyPortal** — a multi-tenant SaaS for Umrah travel agencies (Rails 8 · Hotwire
+  - 🛠️  Also building **[AgencyPortal](https://hasnaintravel.com)** — a multi-tenant SaaS for Umrah travel agencies (Rails 8 · Hotwire
    · SolidQueue · 12 supplier integrations)                                                             
   - 🔍 Open to **remote** roles globally and **onsite/hybrid** roles in Pakistan
-  - 💼 4+ years of experience building **full-stack web applications** end-to-end                       
+  - 💼 5+ years of experience building **full-stack web applications** end-to-end                       
   - 💻 Core stack: **Ruby on Rails, React, Hotwire (Turbo/Stimulus), PostgreSQL, Tailwind CSS**         
   - 🌱 Currently deepening my work in **Rails 8 (Solid stack), multi-tenancy, and AI-assisted           
   engineering workflows**                                                                               
@@ -39,8 +39,7 @@
   data residency.                                           
     <br/>`Rails 8` · `Hotwire` · `PostgreSQL` · `Solid Queue` · `action_policy` · `AASM` · `PaperTrail`
   · `HexaPDF` · `KMS`                                                                                   
-   
-  - 🕋 **[AgencyPortal (AI Umrah Portal)](https://github.com/Zia-Ur-Rehman1/AI_Umrah_Portal)** —        
+   - 🕋 **AgencyPortal (AI Umrah Portal)** — [hasnaintravel.com](https://hasnaintravel.com)** —        
   Multi-tenant SaaS that normalizes 12 heterogeneous supplier APIs (cookie sessions, JWT SPAs,
   TOTP-secured Selenium flows), with per-agency branded domains, stacked markup pricing, and            
   hold/auto-cancel booking flows.                           
@@ -70,22 +69,14 @@
   ---                
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zia1/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zia on LinkedIn" height="28" width="40"/>
-  </a>
-  <a href="https://zia-ur-rehman1.github.io/portfolio/" target="_blank">                              
-      <img align="center"                                                                               
+ <p align="left"><a href="https://www.linkedin.com/in/zia1/" target="_blank"><img                      
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  
+  alt="LinkedIn" height="28"/></a>&nbsp;<a href="https://zia-ur-rehman1.github.io/portfolio/" 
+  target="_blank"><img                                                                                  
   src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=about.me&logoColor=white" 
-  alt="Portfolio" height="28" />                                                                        
-    </a>                                                                                                
-    <a href="mailto:zia.rehman.web@gmail.com">              
-      <img align="center"
-  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"        
-  alt="Email" height="28" />
-    </a>  
-</p>
-
+  alt="Portfolio" height="28"/></a>&nbsp;<a href="mailto:zia.rehman.web@gmail.com"><img 
+  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+  alt="Email" height="28"/></a></p>
 ---
 
 ### 🛠️ Languages & Tools
